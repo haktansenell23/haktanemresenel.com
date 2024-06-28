@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haktanemre.senel\\source\\repos\\haktanemresenel.com\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\haktanemre.senel\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:haktanemresenel.com.webUI\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|c:\\users\\haktanemre.senel\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webui\\haktanemresenel.com.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|solutionrelative:haktanemresenel.com.webui\\haktanemresenel.com.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\haktanemre.senel\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\libman.json",
+              "RelativeDocumentMoniker": "haktanemresenel.com.webUI\\libman.json",
+              "ToolTip": "C:\\Users\\haktanemre.senel\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\libman.json",
+              "RelativeToolTip": "haktanemresenel.com.webUI\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T18:42:50.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "haktanemresenel.com.webUI",
+              "DocumentMoniker": "C:\\Users\\haktanemre.senel\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj",
+              "RelativeDocumentMoniker": "haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj",
+              "ToolTip": "C:\\Users\\haktanemre.senel\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj",
+              "RelativeToolTip": "haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T18:42:40.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
