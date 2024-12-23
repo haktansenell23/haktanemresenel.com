@@ -1,14 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\haktanemre.senel\\source\\repos\\haktanemresenel.com\\",
+  "WorkspaceRootPath": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\haktanemre.senel\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:haktanemresenel.com.webUI\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|c:\\users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webui\\wwwroot\\scss\\site.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|solutionrelative:haktanemresenel.com.webui\\wwwroot\\scss\\site.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|c:\\users\\haktanemre.senel\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webui\\haktanemresenel.com.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|solutionrelative:haktanemresenel.com.webui\\haktanemresenel.com.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|c:\\users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|solutionrelative:haktanemresenel.com.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|c:\\users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|solutionrelative:haktanemresenel.com.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|c:\\users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webui\\wwwroot\\js\\maincontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|solutionrelative:haktanemresenel.com.webui\\wwwroot\\js\\maincontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|c:\\users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|solutionrelative:haktanemresenel.com.webui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|c:\\users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|solutionrelative:haktanemresenel.com.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|c:\\users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webui\\wwwroot\\js\\appcontroller1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|solutionrelative:haktanemresenel.com.webui\\wwwroot\\js\\appcontroller1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +38,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "haktanemresenel.com.webUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "haktanemresenel.com.webUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T21:08:33.464Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "haktanemresenel.com.webUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "haktanemresenel.com.webUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T21:10:00.623Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.scss",
+              "DocumentMoniker": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\scss\\site.scss",
+              "RelativeDocumentMoniker": "haktanemresenel.com.webUI\\wwwroot\\scss\\site.scss",
+              "ToolTip": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\scss\\site.scss",
+              "RelativeToolTip": "haktanemresenel.com.webUI\\wwwroot\\scss\\site.scss",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAG0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-11-26T21:20:32.268Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
@@ -53,30 +113,56 @@
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "libman.json",
-              "DocumentMoniker": "C:\\Users\\haktanemre.senel\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\libman.json",
-              "RelativeDocumentMoniker": "haktanemresenel.com.webUI\\libman.json",
-              "ToolTip": "C:\\Users\\haktanemre.senel\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\libman.json",
-              "RelativeToolTip": "haktanemresenel.com.webUI\\libman.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-28T18:42:50.104Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "haktanemresenel.com.webUI",
-              "DocumentMoniker": "C:\\Users\\haktanemre.senel\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj",
-              "RelativeDocumentMoniker": "haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj",
-              "ToolTip": "C:\\Users\\haktanemre.senel\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj",
-              "RelativeToolTip": "haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-28T18:42:40.232Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "haktanemresenel.com.webUI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "haktanemresenel.com.webUI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:56:07.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "haktanemresenel.com.webUI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "haktanemresenel.com.webUI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:56:36.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "maincontroller.js",
+              "DocumentMoniker": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\js\\maincontroller.js",
+              "RelativeDocumentMoniker": "haktanemresenel.com.webUI\\wwwroot\\js\\maincontroller.js",
+              "ToolTip": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\js\\maincontroller.js",
+              "RelativeToolTip": "haktanemresenel.com.webUI\\wwwroot\\js\\maincontroller.js",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-26T21:44:49.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appcontroller1.js",
+              "DocumentMoniker": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\js\\appcontroller1.js",
+              "RelativeDocumentMoniker": "haktanemresenel.com.webUI\\wwwroot\\js\\appcontroller1.js",
+              "ToolTip": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\js\\appcontroller1.js",
+              "RelativeToolTip": "haktanemresenel.com.webUI\\wwwroot\\js\\appcontroller1.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-26T21:44:48.797Z"
             }
           ]
         }

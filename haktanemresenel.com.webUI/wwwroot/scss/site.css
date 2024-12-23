@@ -1,0 +1,160 @@
+﻿body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  overflow: hidden;
+}
+
+.spinner-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: customSpinner 2s infinite;
+}
+
+.spinner img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50px;
+}
+
+@keyframes customSpinner {
+  0%, 100% {
+    transform: translateY(-30px);
+  }
+  50% {
+    transform: translateY(60px);
+  }
+  75% {
+    transform: scale(2);
+  }
+}
+.customNavbar {
+  left: 50%;
+  right: 50%;
+  margin-top: 10px;
+  border-radius: 50px;
+  padding: 10px;
+  background-color: black;
+  box-shadow: 0 4px 8px rgb(128, 128, 128);
+  color: white;
+}
+
+.navbar-animated-container {
+  width: 100%;
+  position: absolute;
+}
+
+.hover-sound-item {
+  color: white;
+  cursor: pointer;
+}
+
+.hover-sound-item:hover {
+  color: red !important;
+}
+
+.maxHeight {
+  max-height: 100%;
+}
+
+.layoutMain {
+  background-color: black;
+}
+
+.introTextBegin {
+  cursor: none;
+  margin-top: 20%;
+  margin-right: 5%;
+  margin-left: 5%;
+  color: #ffc909;
+  background: black;
+  perspective: 500px;
+}
+
+.scroll-starWars-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 16px;
+  font-weight: bold;
+  height: 100%;
+  line-height: 3rem;
+  width: 70%;
+  text-align: justify;
+  font-weight: bold;
+  overflow: hidden;
+  font-family: "Times New Roman";
+  position: relative;
+  animation: scroll 60s linear forwards infinite;
+  width: 100%;
+}
+
+@keyframes scroll {
+  /*    0%, 100% {
+      transform:translateZ(0);
+
+      top: 0;
+
+  }
+
+  25% {
+      top: -25%;
+         transform:translateZ(-625px);
+
+      }
+
+  50% {
+      top: -50%;
+      transform: translateZ(-1250px);
+  }
+
+  75% {
+      top: -75%;
+     transform:translateZ(-1875px);
+
+  }*/
+  from {
+    top: 0;
+    transform: translateZ(0) rotateX(10deg);
+  }
+  to {
+    top: -100%;
+    transform: translateZ(-500%) rotateX(15deg);
+  }
+}
+/*.navbar-animation {
+*/ /*    animation: navBarAnimation 10s infinite;
+*/
+/*}*/
+/*@keyframes navBarAnimation {
+
+    25%{
+        transform:translateX(-25%)
+    }
+
+    50% {
+        transform: translateX(-25%)
+    }
+
+
+
+
+
+
+}*/

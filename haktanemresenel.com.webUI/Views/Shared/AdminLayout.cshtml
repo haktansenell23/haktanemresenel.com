@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link href="~/tailwindcss/tailwind.min.css" rel="stylesheet" />
+    <link href="~/tailwindcss/components.min.css" rel="stylesheet" />
+    <link href="~/tailwindcss/utilities.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/haktanemresenel.com.webUI.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+<body>
+
+
+
+
+
+    <div class="container" ng-controller="MainCtrl" ng-show="isLoading">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/angular.js/angular.min.js"></script>
+    <script src="~/js/modules.js" asp-append-version="true"></script>
+    <script src="~/js/maincontroller.js" asp-append-version="true"></script>
+    <script src="~/js/vanilla.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    <script>
+
+        var homeUrl = window.location.host;
+
+        console.log("homeUrl", homeUrl);
+    </script>
+</body>
+</html>

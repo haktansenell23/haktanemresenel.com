@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\haktanemre.senel\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj": {}
+    "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\haktanemre.senel\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj": {
+    "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\haktanemre.senel\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj",
+        "projectUniqueName": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj",
         "projectName": "haktanemresenel.com.webUI",
-        "projectPath": "C:\\Users\\haktanemre.senel\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj",
-        "packagesPath": "C:\\Users\\haktanemre.senel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\haktanemre.senel\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\obj\\",
+        "projectPath": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj",
+        "packagesPath": "C:\\Users\\hakta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\haktanemre.senel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hakta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
