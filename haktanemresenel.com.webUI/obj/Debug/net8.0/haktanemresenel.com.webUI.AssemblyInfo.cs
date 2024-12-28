@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("haktanemresenel.com.webUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e943dcc3007d32f5e7e8826aabd23e12116f1aad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4cd4da7fe72e29f93e0085a4c6ad2884c1d1aa3")]
 [assembly: System.Reflection.AssemblyProductAttribute("haktanemresenel.com.webUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("haktanemresenel.com.webUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

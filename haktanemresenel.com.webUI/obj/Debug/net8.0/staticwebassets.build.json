@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ro5tF1v84SuUzMyzH4uLF1/6Gp1eCc62qiAU8I2SHk0=",
+  "Hash": "YAx+9VA1zzT5X5cyE/LinYmKcEjZNfEA8VPIGS7Jt2U=",
   "Source": "haktanemresenel.com.webUI",
   "BasePath": "_content/haktanemresenel.com.webUI",
   "Mode": "Default",
@@ -2219,6 +2219,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\media\\darth-breathing.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\media\\StarWarsMainTheme.mp3",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "media/StarWarsMainTheme.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\StarWarsMainTheme.mp3"
     },
     {
       "Identity": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\scss\\site.css",

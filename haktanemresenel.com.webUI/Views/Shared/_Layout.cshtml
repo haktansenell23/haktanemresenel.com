@@ -15,7 +15,9 @@
 </head>
 <body>
 
-   
+    <audio controls="controls" style="display:none;" id="generalTheme">
+        <source src="~/media/starwarsmaintheme.mp3" type="audio/mpeg"  />
+    </audio>
 
 
 
@@ -36,7 +38,7 @@
                         <ul class="d-flex justify-content-start w-100 p-0 mt-1 mb-0 mr-3">
                             <li class="">
                                 
-                                <a href="~/media/" class="hover-sound-item" title="CV" ng-click="wait(3000,{type:'notif',succMsg:'İndirme Başarılı',errorMsg:'İndirme başarısız dosya bulunamadı'})" download>
+                                <a href="~/media/darth-breathing.mp3" class="hover-sound-item" title="CV" ng-click="wait(3000,{type:'notif',succMsg:'İndirme Başarılı',errorMsg:'İndirme başarısız dosya bulunamadı'})" download>
                                     <i class="fa-solid fa-download" title="CV"></i>
                                 </a>
                             </li>
@@ -44,7 +46,7 @@
                     </div>
                     <div class="d-flex justify-content-center w-100">
                         <ul class="d-flex justify-content-center w-100 p-0 gap-10 mt-1 mb-0 mr-3">
-                            <li class="hover-sound-item">Deneyim</li>
+                            <li class="hover-sound-item"><a class="hover-sound-item " asp-controller="Home" asp-action="Index">Deneyim</a></li>
                             <li class="hover-sound-item">Hakkımda</li>
                             <li class="hover-sound-item">Projeler</li>
 

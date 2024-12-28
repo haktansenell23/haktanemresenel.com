@@ -457,6 +457,10 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\media\\StarWarsMainTheme.mp3",
+      "PackagePath": "staticwebassets\\media\\StarWarsMainTheme.mp3"
+    },
+    {
       "Id": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\media\\darth-breathing.mp3",
       "PackagePath": "staticwebassets\\media\\darth-breathing.mp3"
     },

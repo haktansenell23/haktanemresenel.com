@@ -63,6 +63,7 @@
 .hover-sound-item {
   color: white;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .hover-sound-item:hover {
@@ -75,10 +76,11 @@
 
 .layoutMain {
   background-color: black;
+  box-shadow: 0 4px 8px rgb(128, 128, 128);
 }
 
 .introTextBegin {
-  cursor: none;
+  cursor: crosshair;
   margin-top: 20%;
   margin-right: 5%;
   margin-left: 5%;
@@ -158,3 +160,11 @@
 
 
 }*/
+.adminLoginBox {
+  box-shadow: 0 4px 8px rgb(128, 128, 128);
+  padding: 5rem;
+}
+
+.admingLoginInputMargin {
+  margin-bottom: 2rem;
+}
