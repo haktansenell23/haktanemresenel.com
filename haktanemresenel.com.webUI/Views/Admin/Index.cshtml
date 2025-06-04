@@ -5,21 +5,22 @@
     Layout = "AdminLayout";
     ViewData["Title"] = "Admin";
 }
+<form name="adminLogin" ng-submit="adminLogin.$valid && adminLogin()" novalidate>
 
-<div class="h-100 d-flex justify-content-center align-items-center ">
+    <div class="h-100 d-flex justify-content-center align-items-center">
 
-    <form class="adminLoginBox">
-        <div class="form-group admingLoginInputMargin">
-            <label for="exampleInputEmail1" class="text-white" >Kullanıcı Adı</label>
-            <input type="email" class="form-control text-danger"  id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Kullanıcı Adı">
-        </div>
-        <div class="form-group admingLoginInputMargin">
-            <label for="exampleInputPassword1" class="text-white">Şifre</label>
-            <input type="password" class="form-control text-danger" id="exampleInputPassword1" placeholder="Şifre">
-        </div>
-            <button type="submit" class="btn btn-danger text-white justify-content-end">Giriş Yap</button>
+        <form class="adminLoginBox">
+            <div class="form-group admingLoginInputMargin">
+                <label for="exampleInputEmail1" class="text-white">Kullanıcı Adı</label>
+                <input type="email" class="form-control text-danger" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Kullanıcı Adı">
+            </div>
+            <div class="form-group admingLoginInputMargin">
+                <label for="exampleInputPassword1" class="text-white">Şifre</label>
+                <input type="password" class="form-control text-danger" id="exampleInputPassword1" placeholder="Şifre">
+            </div>
+            <button type="submit" class="btn btn-danger justify-content-end text-white">Giriş Yap</button>
+        </form>
 
-       
-    </form>
+    </div>
 
-</div>
+</form>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("haktanemresenel.com.core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4cd4da7fe72e29f93e0085a4c6ad2884c1d1aa3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1ffd83fefe700a742942963c72442e4a594ff64")]
 [assembly: System.Reflection.AssemblyProductAttribute("haktanemresenel.com.core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("haktanemresenel.com.core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
