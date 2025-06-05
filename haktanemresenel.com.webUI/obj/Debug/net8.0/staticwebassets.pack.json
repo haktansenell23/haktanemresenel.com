@@ -1,0 +1,545 @@
+{
+  "Files": [
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/obj/Debug/net8.0/scopedcss/projectbundle/haktanemresenel.com.webUI.bundle.scp.css",
+      "PackagePath": "staticwebassets/haktanemresenel.com.webUI.bundle.scp.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/angular.js/angular-csp.css",
+      "PackagePath": "staticwebassets/angular.js/angular-csp.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/angular.js/angular-csp.min.css",
+      "PackagePath": "staticwebassets/angular.js/angular-csp.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/angular.js/angular.js",
+      "PackagePath": "staticwebassets/angular.js/angular.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/angular.js/angular.min.js",
+      "PackagePath": "staticwebassets/angular.js/angular.min.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/angular.js/angular.min.js.map",
+      "PackagePath": "staticwebassets/angular.js/angular.min.js.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/all.css",
+      "PackagePath": "staticwebassets/font-awesome/css/all.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/all.min.css",
+      "PackagePath": "staticwebassets/font-awesome/css/all.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/brands.css",
+      "PackagePath": "staticwebassets/font-awesome/css/brands.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/brands.min.css",
+      "PackagePath": "staticwebassets/font-awesome/css/brands.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/fontawesome.css",
+      "PackagePath": "staticwebassets/font-awesome/css/fontawesome.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/fontawesome.min.css",
+      "PackagePath": "staticwebassets/font-awesome/css/fontawesome.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/regular.css",
+      "PackagePath": "staticwebassets/font-awesome/css/regular.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/regular.min.css",
+      "PackagePath": "staticwebassets/font-awesome/css/regular.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/solid.css",
+      "PackagePath": "staticwebassets/font-awesome/css/solid.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/solid.min.css",
+      "PackagePath": "staticwebassets/font-awesome/css/solid.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/svg-with-js.css",
+      "PackagePath": "staticwebassets/font-awesome/css/svg-with-js.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/svg-with-js.min.css",
+      "PackagePath": "staticwebassets/font-awesome/css/svg-with-js.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/v4-font-face.css",
+      "PackagePath": "staticwebassets/font-awesome/css/v4-font-face.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/v4-font-face.min.css",
+      "PackagePath": "staticwebassets/font-awesome/css/v4-font-face.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/v4-shims.css",
+      "PackagePath": "staticwebassets/font-awesome/css/v4-shims.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/v4-shims.min.css",
+      "PackagePath": "staticwebassets/font-awesome/css/v4-shims.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/v5-font-face.css",
+      "PackagePath": "staticwebassets/font-awesome/css/v5-font-face.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/v5-font-face.min.css",
+      "PackagePath": "staticwebassets/font-awesome/css/v5-font-face.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/all.js",
+      "PackagePath": "staticwebassets/font-awesome/js/all.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/all.min.js",
+      "PackagePath": "staticwebassets/font-awesome/js/all.min.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/brands.js",
+      "PackagePath": "staticwebassets/font-awesome/js/brands.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/brands.min.js",
+      "PackagePath": "staticwebassets/font-awesome/js/brands.min.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/conflict-detection.js",
+      "PackagePath": "staticwebassets/font-awesome/js/conflict-detection.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/conflict-detection.min.js",
+      "PackagePath": "staticwebassets/font-awesome/js/conflict-detection.min.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/fontawesome.js",
+      "PackagePath": "staticwebassets/font-awesome/js/fontawesome.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/fontawesome.min.js",
+      "PackagePath": "staticwebassets/font-awesome/js/fontawesome.min.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/regular.js",
+      "PackagePath": "staticwebassets/font-awesome/js/regular.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/regular.min.js",
+      "PackagePath": "staticwebassets/font-awesome/js/regular.min.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/solid.js",
+      "PackagePath": "staticwebassets/font-awesome/js/solid.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/solid.min.js",
+      "PackagePath": "staticwebassets/font-awesome/js/solid.min.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/v4-shims.js",
+      "PackagePath": "staticwebassets/font-awesome/js/v4-shims.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/v4-shims.min.js",
+      "PackagePath": "staticwebassets/font-awesome/js/v4-shims.min.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/sprites/brands.svg",
+      "PackagePath": "staticwebassets/font-awesome/sprites/brands.svg"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/sprites/regular.svg",
+      "PackagePath": "staticwebassets/font-awesome/sprites/regular.svg"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/sprites/solid.svg",
+      "PackagePath": "staticwebassets/font-awesome/sprites/solid.svg"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/font-awesome/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/font-awesome/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/font-awesome/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/font-awesome/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/font-awesome/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/font-awesome/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/webfonts/fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets/font-awesome/webfonts/fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/webfonts/fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets/font-awesome/webfonts/fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/images/emre.jpg",
+      "PackagePath": "staticwebassets/images/emre.jpg"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/js/appadmin.js",
+      "PackagePath": "staticwebassets/js/appadmin.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/js/appcontroller1.js",
+      "PackagePath": "staticwebassets/js/appcontroller1.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/js/maincontroller.js",
+      "PackagePath": "staticwebassets/js/maincontroller.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/js/modules.js",
+      "PackagePath": "staticwebassets/js/modules.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/js/vanilla.js",
+      "PackagePath": "staticwebassets/js/vanilla.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/media/StarWarsMainTheme.mp3",
+      "PackagePath": "staticwebassets/media/StarWarsMainTheme.mp3"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/media/darth-breathing.mp3",
+      "PackagePath": "staticwebassets/media/darth-breathing.mp3"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/scss/site.css",
+      "PackagePath": "staticwebassets/scss/site.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/scss/site.min.css",
+      "PackagePath": "staticwebassets/scss/site.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/scss/site.scss",
+      "PackagePath": "staticwebassets/scss/site.scss"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/base.css",
+      "PackagePath": "staticwebassets/tailwindcss/base.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/base.min.css",
+      "PackagePath": "staticwebassets/tailwindcss/base.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/components.css",
+      "PackagePath": "staticwebassets/tailwindcss/components.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/components.min.css",
+      "PackagePath": "staticwebassets/tailwindcss/components.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/tailwind-dark.css",
+      "PackagePath": "staticwebassets/tailwindcss/tailwind-dark.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/tailwind-dark.min.css",
+      "PackagePath": "staticwebassets/tailwindcss/tailwind-dark.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/tailwind-experimental.css",
+      "PackagePath": "staticwebassets/tailwindcss/tailwind-experimental.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/tailwind-experimental.min.css",
+      "PackagePath": "staticwebassets/tailwindcss/tailwind-experimental.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/tailwind.css",
+      "PackagePath": "staticwebassets/tailwindcss/tailwind.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/tailwind.min.css",
+      "PackagePath": "staticwebassets/tailwindcss/tailwind.min.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/utilities.css",
+      "PackagePath": "staticwebassets/tailwindcss/utilities.css"
+    },
+    {
+      "Id": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/utilities.min.css",
+      "PackagePath": "staticwebassets/tailwindcss/utilities.min.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.haktanemresenel.com.webUI.props",
+      "PackagePath": "build\\haktanemresenel.com.webUI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.haktanemresenel.com.webUI.props",
+      "PackagePath": "buildMultiTargeting\\haktanemresenel.com.webUI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.haktanemresenel.com.webUI.props",
+      "PackagePath": "buildTransitive\\haktanemresenel.com.webUI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.haktanemresenel.com.webUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

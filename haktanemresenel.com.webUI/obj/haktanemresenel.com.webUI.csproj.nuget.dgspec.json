@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj": {}
+    "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/haktanemresenel.com.webUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj": {
+    "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/haktanemresenel.com.webUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj",
+        "projectUniqueName": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/haktanemresenel.com.webUI.csproj",
         "projectName": "haktanemresenel.com.webUI",
-        "projectPath": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj",
-        "packagesPath": "C:\\Users\\hakta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\obj\\",
+        "projectPath": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/haktanemresenel.com.webUI.csproj",
+        "packagesPath": "/home/emre/.nuget/packages/",
+        "outputPath": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hakta\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/emre/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/256/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
