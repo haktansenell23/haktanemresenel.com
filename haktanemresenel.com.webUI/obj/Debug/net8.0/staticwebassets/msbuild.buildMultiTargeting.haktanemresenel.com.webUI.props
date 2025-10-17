@@ -1,3 +1,7 @@
 ﻿<Project>
+<<<<<<< HEAD
   <Import Project="..\build\haktanemresenel.com.webUI.props" />
+=======
+  <Import Project="../build/haktanemresenel.com.webUI.props" />
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
 </Project>

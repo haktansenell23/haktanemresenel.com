@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "YAx+9VA1zzT5X5cyE/LinYmKcEjZNfEA8VPIGS7Jt2U=",
+=======
+  "Hash": "ZQLTZrT7w7B8G6tak49wMf/AOo6PhYFSRvpXq38DbY8=",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
   "Source": "haktanemresenel.com.webUI",
   "BasePath": "_content/haktanemresenel.com.webUI",
   "Mode": "Default",
@@ -8,19 +12,32 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
+<<<<<<< HEAD
       "Name": "haktanemresenel.com.webUI\\wwwroot",
       "Source": "haktanemresenel.com.webUI",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "Name": "haktanemresenel.com.webUI/wwwroot",
+      "Source": "haktanemresenel.com.webUI",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\haktanemresenel.com.webUI.styles.css",
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+=======
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/obj/Debug/net8.0/scopedcss/bundle/haktanemresenel.com.webUI.styles.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/obj/Debug/net8.0/scopedcss/bundle/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "haktanemresenel.com.webUI.styles.css",
       "AssetKind": "All",
@@ -33,6 +50,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\haktanemresenel.com.webUI.styles.css"
     },
     {
@@ -40,6 +58,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+=======
+      "OriginalItemSpec": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/obj/Debug/net8.0/scopedcss/bundle/haktanemresenel.com.webUI.styles.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/obj/Debug/net8.0/scopedcss/projectbundle/haktanemresenel.com.webUI.bundle.scp.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/obj/Debug/net8.0/scopedcss/projectbundle/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "haktanemresenel.com.webUI.bundle.scp.css",
       "AssetKind": "All",
@@ -52,6 +79,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\haktanemresenel.com.webUI.bundle.scp.css"
     },
     {
@@ -116,6 +144,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/obj/Debug/net8.0/scopedcss/projectbundle/haktanemresenel.com.webUI.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/angular.js/angular-csp.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "angular.js/angular-csp.css",
       "AssetKind": "All",
@@ -128,6 +165,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\angular.js\\angular-csp.css"
     },
     {
@@ -135,6 +173,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/angular.js/angular-csp.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/angular.js/angular-csp.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "angular.js/angular-csp.min.css",
       "AssetKind": "All",
@@ -147,6 +194,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\angular.js\\angular-csp.min.css"
     },
     {
@@ -154,6 +202,72 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/angular.js/angular-csp.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/angular.js/angular.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "angular.js/angular.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/angular.js/angular.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/angular.js/angular.min.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "angular.js/angular.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/angular.js/angular.min.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/angular.js/angular.min.js.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "angular.js/angular.min.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/angular.js/angular.min.js.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/css/site.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -166,6 +280,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
@@ -173,6 +288,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/favicon.ico",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -185,6 +309,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
@@ -192,6 +317,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/all.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/css/all.css",
       "AssetKind": "All",
@@ -204,6 +338,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\all.css"
     },
     {
@@ -211,6 +346,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/css/all.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/all.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/css/all.min.css",
       "AssetKind": "All",
@@ -223,6 +367,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\all.min.css"
     },
     {
@@ -230,6 +375,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/css/all.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/brands.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/css/brands.css",
       "AssetKind": "All",
@@ -242,6 +396,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\brands.css"
     },
     {
@@ -249,6 +404,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/css/brands.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/brands.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/css/brands.min.css",
       "AssetKind": "All",
@@ -261,6 +425,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\brands.min.css"
     },
     {
@@ -268,6 +433,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/css/brands.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/fontawesome.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/css/fontawesome.css",
       "AssetKind": "All",
@@ -280,6 +454,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\fontawesome.css"
     },
     {
@@ -287,6 +462,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/css/fontawesome.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/fontawesome.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/css/fontawesome.min.css",
       "AssetKind": "All",
@@ -299,6 +483,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\fontawesome.min.css"
     },
     {
@@ -306,6 +491,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/css/fontawesome.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/regular.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/css/regular.css",
       "AssetKind": "All",
@@ -318,6 +512,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\regular.css"
     },
     {
@@ -325,6 +520,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/css/regular.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/regular.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/css/regular.min.css",
       "AssetKind": "All",
@@ -337,6 +541,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\regular.min.css"
     },
     {
@@ -344,6 +549,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/css/regular.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/solid.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/css/solid.css",
       "AssetKind": "All",
@@ -356,6 +570,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\solid.css"
     },
     {
@@ -363,6 +578,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/css/solid.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/solid.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/css/solid.min.css",
       "AssetKind": "All",
@@ -375,6 +599,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\solid.min.css"
     },
     {
@@ -382,6 +607,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/css/solid.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/svg-with-js.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/css/svg-with-js.css",
       "AssetKind": "All",
@@ -394,6 +628,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\svg-with-js.css"
     },
     {
@@ -401,6 +636,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/css/svg-with-js.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/svg-with-js.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/css/svg-with-js.min.css",
       "AssetKind": "All",
@@ -413,6 +657,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\svg-with-js.min.css"
     },
     {
@@ -420,6 +665,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/css/svg-with-js.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/v4-font-face.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/css/v4-font-face.css",
       "AssetKind": "All",
@@ -432,6 +686,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\v4-font-face.css"
     },
     {
@@ -439,6 +694,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/css/v4-font-face.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/v4-font-face.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/css/v4-font-face.min.css",
       "AssetKind": "All",
@@ -451,6 +715,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\v4-font-face.min.css"
     },
     {
@@ -458,6 +723,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/css/v4-font-face.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/v4-shims.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/css/v4-shims.css",
       "AssetKind": "All",
@@ -470,6 +744,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\v4-shims.css"
     },
     {
@@ -477,6 +752,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/css/v4-shims.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/v4-shims.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/css/v4-shims.min.css",
       "AssetKind": "All",
@@ -489,6 +773,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\v4-shims.min.css"
     },
     {
@@ -496,6 +781,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/css/v4-shims.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/v5-font-face.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/css/v5-font-face.css",
       "AssetKind": "All",
@@ -508,6 +802,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\v5-font-face.css"
     },
     {
@@ -515,6 +810,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/css/v5-font-face.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/css/v5-font-face.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/css/v5-font-face.min.css",
       "AssetKind": "All",
@@ -527,6 +831,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\css\\v5-font-face.min.css"
     },
     {
@@ -534,6 +839,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/css/v5-font-face.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/all.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/js/all.js",
       "AssetKind": "All",
@@ -546,6 +860,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\all.js"
     },
     {
@@ -553,6 +868,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/js/all.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/all.min.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/js/all.min.js",
       "AssetKind": "All",
@@ -565,6 +889,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\all.min.js"
     },
     {
@@ -572,6 +897,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/js/all.min.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/brands.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/js/brands.js",
       "AssetKind": "All",
@@ -584,6 +918,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\brands.js"
     },
     {
@@ -591,6 +926,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/js/brands.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/brands.min.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/js/brands.min.js",
       "AssetKind": "All",
@@ -603,6 +947,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\brands.min.js"
     },
     {
@@ -610,6 +955,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/js/brands.min.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/conflict-detection.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/js/conflict-detection.js",
       "AssetKind": "All",
@@ -622,6 +976,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\conflict-detection.js"
     },
     {
@@ -629,6 +984,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/js/conflict-detection.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/conflict-detection.min.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/js/conflict-detection.min.js",
       "AssetKind": "All",
@@ -641,6 +1005,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\conflict-detection.min.js"
     },
     {
@@ -648,6 +1013,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/js/conflict-detection.min.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/fontawesome.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/js/fontawesome.js",
       "AssetKind": "All",
@@ -660,6 +1034,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\fontawesome.js"
     },
     {
@@ -667,6 +1042,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/js/fontawesome.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/fontawesome.min.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/js/fontawesome.min.js",
       "AssetKind": "All",
@@ -679,6 +1063,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\fontawesome.min.js"
     },
     {
@@ -686,6 +1071,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/js/fontawesome.min.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/regular.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/js/regular.js",
       "AssetKind": "All",
@@ -698,6 +1092,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\regular.js"
     },
     {
@@ -705,6 +1100,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/js/regular.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/regular.min.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/js/regular.min.js",
       "AssetKind": "All",
@@ -717,6 +1121,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\regular.min.js"
     },
     {
@@ -724,6 +1129,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/js/regular.min.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/solid.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/js/solid.js",
       "AssetKind": "All",
@@ -736,6 +1150,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\solid.js"
     },
     {
@@ -743,6 +1158,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/js/solid.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/solid.min.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/js/solid.min.js",
       "AssetKind": "All",
@@ -755,6 +1179,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\solid.min.js"
     },
     {
@@ -762,6 +1187,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/js/solid.min.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/v4-shims.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/js/v4-shims.js",
       "AssetKind": "All",
@@ -774,6 +1208,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\v4-shims.js"
     },
     {
@@ -781,6 +1216,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/js/v4-shims.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/js/v4-shims.min.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/js/v4-shims.min.js",
       "AssetKind": "All",
@@ -793,6 +1237,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\js\\v4-shims.min.js"
     },
     {
@@ -800,6 +1245,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/js/v4-shims.min.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/sprites/brands.svg",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/sprites/brands.svg",
       "AssetKind": "All",
@@ -812,6 +1266,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\sprites\\brands.svg"
     },
     {
@@ -819,6 +1274,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/sprites/brands.svg"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/sprites/regular.svg",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/sprites/regular.svg",
       "AssetKind": "All",
@@ -831,6 +1295,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\sprites\\regular.svg"
     },
     {
@@ -838,6 +1303,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/sprites/regular.svg"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/sprites/solid.svg",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/sprites/solid.svg",
       "AssetKind": "All",
@@ -850,6 +1324,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\sprites\\solid.svg"
     },
     {
@@ -857,6 +1332,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/sprites/solid.svg"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/webfonts/fa-brands-400.ttf",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -869,6 +1353,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-brands-400.ttf"
     },
     {
@@ -876,6 +1361,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/webfonts/fa-brands-400.woff2",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -888,6 +1382,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-brands-400.woff2"
     },
     {
@@ -895,6 +1390,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/webfonts/fa-regular-400.ttf",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -907,6 +1411,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-regular-400.ttf"
     },
     {
@@ -914,6 +1419,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/webfonts/fa-regular-400.woff2",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -926,6 +1440,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-regular-400.woff2"
     },
     {
@@ -933,6 +1448,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/webfonts/fa-solid-900.ttf",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -945,6 +1469,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-solid-900.ttf"
     },
     {
@@ -952,6 +1477,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/webfonts/fa-solid-900.woff2",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -964,6 +1498,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-solid-900.woff2"
     },
     {
@@ -971,6 +1506,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/webfonts/fa-v4compatibility.ttf",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/webfonts/fa-v4compatibility.ttf",
       "AssetKind": "All",
@@ -983,6 +1527,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
     },
     {
@@ -990,6 +1535,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/webfonts/fa-v4compatibility.ttf"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/font-awesome/webfonts/fa-v4compatibility.woff2",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "font-awesome/webfonts/fa-v4compatibility.woff2",
       "AssetKind": "All",
@@ -1002,6 +1556,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
     },
     {
@@ -1009,6 +1564,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/font-awesome/webfonts/fa-v4compatibility.woff2"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/images/emre.jpg",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "images/emre.jpg",
       "AssetKind": "All",
@@ -1021,6 +1585,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\images\\emre.jpg"
     },
     {
@@ -1028,6 +1593,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/images/emre.jpg"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/js/appadmin.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "js/appadmin.js",
       "AssetKind": "All",
@@ -1040,6 +1614,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\js\\appadmin.js"
     },
     {
@@ -1047,6 +1622,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/js/appadmin.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/js/appcontroller1.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "js/appcontroller1.js",
       "AssetKind": "All",
@@ -1059,6 +1643,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\js\\appcontroller1.js"
     },
     {
@@ -1066,6 +1651,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/js/appcontroller1.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/js/maincontroller.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "js/maincontroller.js",
       "AssetKind": "All",
@@ -1078,6 +1672,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\js\\maincontroller.js"
     },
     {
@@ -1085,6 +1680,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/js/maincontroller.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/js/modules.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "js/modules.js",
       "AssetKind": "All",
@@ -1097,6 +1701,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\js\\modules.js"
     },
     {
@@ -1104,6 +1709,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/js/modules.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/js/vanilla.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "js/vanilla.js",
       "AssetKind": "All",
@@ -1116,6 +1730,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\js\\vanilla.js"
     },
     {
@@ -1275,6 +1890,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/js/vanilla.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1287,6 +1911,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
@@ -1294,6 +1919,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1306,6 +1940,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
@@ -1313,6 +1948,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1325,6 +1969,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
@@ -1332,6 +1977,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1344,6 +1998,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
@@ -1351,6 +2006,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1363,6 +2027,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
@@ -1370,6 +2035,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1382,6 +2056,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
@@ -1389,6 +2064,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1401,6 +2085,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
@@ -1408,6 +2093,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1420,6 +2114,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
@@ -1427,6 +2122,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1439,6 +2143,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
@@ -1446,6 +2151,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1458,6 +2172,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
@@ -1465,6 +2180,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1477,6 +2201,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
@@ -1484,6 +2209,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1496,6 +2230,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
@@ -1503,6 +2238,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1515,6 +2259,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
@@ -1522,6 +2267,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1534,6 +2288,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
@@ -1541,6 +2296,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1553,6 +2317,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
@@ -1560,6 +2325,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1572,6 +2346,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
@@ -1579,6 +2354,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1591,6 +2375,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
@@ -1598,6 +2383,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1610,6 +2404,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
@@ -1617,6 +2412,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1629,6 +2433,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
@@ -1636,6 +2441,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1648,6 +2462,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
@@ -1655,6 +2470,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1667,6 +2491,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
@@ -1674,6 +2499,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1686,6 +2520,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
@@ -1693,6 +2528,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1705,6 +2549,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
@@ -1712,6 +2557,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1724,6 +2578,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
@@ -1731,6 +2586,167 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1743,6 +2759,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
@@ -1750,6 +2767,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1762,6 +2788,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
@@ -1769,6 +2796,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1781,6 +2817,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
@@ -1788,6 +2825,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1800,6 +2846,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
@@ -1807,6 +2854,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1819,6 +2875,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
@@ -1826,6 +2883,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1838,6 +2904,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
@@ -1845,6 +2912,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1857,6 +2933,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
@@ -1864,6 +2941,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1876,6 +2962,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
@@ -1883,6 +2970,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1895,6 +2991,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
@@ -1902,6 +2999,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1914,6 +3020,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
@@ -1921,6 +3028,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1933,6 +3049,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
@@ -1940,6 +3057,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1952,6 +3078,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
@@ -1959,6 +3086,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/bootstrap/LICENSE",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1971,6 +3107,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
@@ -2149,6 +3286,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2161,6 +3307,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
@@ -2168,6 +3315,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2180,6 +3336,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
@@ -2187,6 +3344,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2199,6 +3365,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
@@ -2206,6 +3373,186 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery-validation/LICENSE.md",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery/dist/jquery.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "lib/jquery/dist/jquery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery/dist/jquery.min.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery/dist/jquery.min.map",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/lib/jquery/LICENSE.txt",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "lib/jquery/LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/media/darth-breathing.mp3",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "media/darth-breathing.mp3",
       "AssetKind": "All",
@@ -2218,6 +3565,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\media\\darth-breathing.mp3"
     },
     {
@@ -2225,6 +3573,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/media/darth-breathing.mp3"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/media/StarWarsMainTheme.mp3",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "media/StarWarsMainTheme.mp3",
       "AssetKind": "All",
@@ -2237,6 +3594,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\media\\StarWarsMainTheme.mp3"
     },
     {
@@ -2244,6 +3602,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/media/StarWarsMainTheme.mp3"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/scss/site.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "scss/site.css",
       "AssetKind": "All",
@@ -2256,6 +3623,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\scss\\site.css"
     },
     {
@@ -2263,6 +3631,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/scss/site.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/scss/site.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "scss/site.min.css",
       "AssetKind": "All",
@@ -2275,6 +3652,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\scss\\site.min.css"
     },
     {
@@ -2282,6 +3660,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/scss/site.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/scss/site.scss",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "scss/site.scss",
       "AssetKind": "All",
@@ -2294,6 +3681,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\scss\\site.scss"
     },
     {
@@ -2301,6 +3689,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/scss/site.scss"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/base.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "tailwindcss/base.css",
       "AssetKind": "All",
@@ -2313,6 +3710,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\tailwindcss\\base.css"
     },
     {
@@ -2320,6 +3718,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/tailwindcss/base.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/base.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "tailwindcss/base.min.css",
       "AssetKind": "All",
@@ -2332,6 +3739,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\tailwindcss\\base.min.css"
     },
     {
@@ -2339,6 +3747,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/tailwindcss/base.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/components.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "tailwindcss/components.css",
       "AssetKind": "All",
@@ -2351,6 +3768,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\tailwindcss\\components.css"
     },
     {
@@ -2358,6 +3776,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/tailwindcss/components.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/components.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "tailwindcss/components.min.css",
       "AssetKind": "All",
@@ -2370,6 +3797,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\tailwindcss\\components.min.css"
     },
     {
@@ -2415,6 +3843,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/tailwindcss/components.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/tailwind-dark.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "tailwindcss/tailwind-dark.css",
       "AssetKind": "All",
@@ -2427,6 +3864,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\tailwindcss\\tailwind-dark.css"
     },
     {
@@ -2434,6 +3872,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/tailwindcss/tailwind-dark.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/tailwind-dark.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "tailwindcss/tailwind-dark.min.css",
       "AssetKind": "All",
@@ -2446,6 +3893,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\tailwindcss\\tailwind-dark.min.css"
     },
     {
@@ -2453,6 +3901,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/tailwindcss/tailwind-dark.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/tailwind-experimental.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "tailwindcss/tailwind-experimental.css",
       "AssetKind": "All",
@@ -2465,6 +3922,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\tailwindcss\\tailwind-experimental.css"
     },
     {
@@ -2472,6 +3930,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/tailwindcss/tailwind-experimental.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/tailwind-experimental.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "tailwindcss/tailwind-experimental.min.css",
       "AssetKind": "All",
@@ -2484,6 +3951,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\tailwindcss\\tailwind-experimental.min.css"
     },
     {
@@ -2491,6 +3959,53 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/tailwindcss/tailwind-experimental.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/tailwind.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "tailwindcss/tailwind.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/tailwindcss/tailwind.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/tailwind.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "tailwindcss/tailwind.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/tailwindcss/tailwind.min.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/utilities.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "tailwindcss/utilities.css",
       "AssetKind": "All",
@@ -2503,6 +4018,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\tailwindcss\\utilities.css"
     },
     {
@@ -2510,6 +4026,15 @@
       "SourceId": "haktanemresenel.com.webUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+=======
+      "OriginalItemSpec": "wwwroot/tailwindcss/utilities.css"
+    },
+    {
+      "Identity": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/tailwindcss/utilities.min.css",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/wwwroot/",
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
       "BasePath": "_content/haktanemresenel.com.webUI",
       "RelativePath": "tailwindcss/utilities.min.css",
       "AssetKind": "All",
@@ -2522,7 +4047,11 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\tailwindcss\\utilities.min.css"
+=======
+      "OriginalItemSpec": "wwwroot/tailwindcss/utilities.min.css"
+>>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
     }
   ]
 }
