@@ -9,17 +9,12 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = haktanemresenel.com.webUI
 build_property.RootNamespace = haktanemresenel.com.webUI
-<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.webUI\
-=======
-build_property.ProjectDir = /home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/
->>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.webUI
 build_property._RazorSourceGeneratorDebug = 
 
@@ -58,43 +53,3 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/hakta/Source/Repos/haktanemresenel.com/haktanemresenel.com.webUI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-vigp6f2zof
-=======
-build_property.MSBuildProjectDirectory = /home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI
-build_property._RazorSourceGeneratorDebug = 
-
-[/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/Views/Admin/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/Views/Shared/AdminLayout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0FkbWluTGF5b3V0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/emre/snap/repo/haktanemresenel.com/haktanemresenel.com.webUI/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-4br1wabjvg
->>>>>>> 68cfb18d46f11b5af52b7b221a50eabe02a9bc36
