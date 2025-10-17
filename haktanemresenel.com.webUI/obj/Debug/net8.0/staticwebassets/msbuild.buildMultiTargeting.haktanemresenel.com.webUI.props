@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\haktanemresenel.com.webUI.props" />
+</Project>
