@@ -1,0 +1,16 @@
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.repository\bin\Debug\net8.0\haktanemresenel.com.repository.deps.json
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.repository\bin\Debug\net8.0\haktanemresenel.com.repository.dll
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.repository\bin\Debug\net8.0\haktanemresenel.com.repository.pdb
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.repository\bin\Debug\net8.0\haktanemresenel.com.core.dll
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.repository\bin\Debug\net8.0\haktanemresenel.com.core.pdb
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.repository\obj\Debug\net8.0\haktanemresenel.com.repository.csproj.AssemblyReference.cache
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.repository\obj\Debug\net8.0\haktanemresenel.com.repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.repository\obj\Debug\net8.0\haktanemresenel.com.repository.AssemblyInfoInputs.cache
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.repository\obj\Debug\net8.0\haktanemresenel.com.repository.AssemblyInfo.cs
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.repository\obj\Debug\net8.0\haktanemresenel.com.repository.csproj.CoreCompileInputs.cache
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.repository\obj\Debug\net8.0\haktanemresenel.com.repository.sourcelink.json
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.repository\obj\Debug\net8.0\haktanem.31102818.Up2Date
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.repository\obj\Debug\net8.0\haktanemresenel.com.repository.dll
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.repository\obj\Debug\net8.0\refint\haktanemresenel.com.repository.dll
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.repository\obj\Debug\net8.0\haktanemresenel.com.repository.pdb
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.repository\obj\Debug\net8.0\ref\haktanemresenel.com.repository.dll

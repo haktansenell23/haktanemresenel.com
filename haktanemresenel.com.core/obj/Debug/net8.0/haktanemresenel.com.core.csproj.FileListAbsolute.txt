@@ -1,0 +1,15 @@
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.core\bin\Debug\net8.0\haktanemresenel.com.core.deps.json
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.core\bin\Debug\net8.0\haktanemresenel.com.core.runtimeconfig.json
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.core\bin\Debug\net8.0\haktanemresenel.com.core.dll
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.core\bin\Debug\net8.0\haktanemresenel.com.core.pdb
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.core\obj\Debug\net8.0\haktanemresenel.com.core.csproj.AssemblyReference.cache
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.core\obj\Debug\net8.0\haktanemresenel.com.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.core\obj\Debug\net8.0\haktanemresenel.com.core.AssemblyInfoInputs.cache
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.core\obj\Debug\net8.0\haktanemresenel.com.core.AssemblyInfo.cs
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.core\obj\Debug\net8.0\haktanemresenel.com.core.csproj.CoreCompileInputs.cache
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.core\obj\Debug\net8.0\haktanemresenel.com.core.sourcelink.json
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.core\obj\Debug\net8.0\haktanemresenel.com.core.dll
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.core\obj\Debug\net8.0\refint\haktanemresenel.com.core.dll
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.core\obj\Debug\net8.0\haktanemresenel.com.core.pdb
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.core\obj\Debug\net8.0\haktanemresenel.com.core.genruntimeconfig.cache
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.core\obj\Debug\net8.0\ref\haktanemresenel.com.core.dll

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using haktanemresenel.com.core.Dtos;
+using Microsoft.AspNetCore.Mvc;
 
 namespace haktanemresenel.com.webUI.Controllers
 {
@@ -7,6 +8,12 @@ namespace haktanemresenel.com.webUI.Controllers
         public IActionResult Index()
         {
             return View();
+        }
+
+
+        public async Task<IActionResult> AdminLogin([FromBody] AdminLoginRequestDto loginRequestDto)
+        {
+            throw new NotImplementedException();
         }
     }
 }

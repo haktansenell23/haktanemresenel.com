@@ -14,4 +14,8 @@
     <None Include="compilerconfig.json" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\haktanemresenelk.com.services\haktanemresenelk.com.services.csproj" />
+  </ItemGroup>
+
 </Project>

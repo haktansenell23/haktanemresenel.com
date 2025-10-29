@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DC13B432-0B54-4D97-9BED-0003A44F1491}|haktanemresenel.com.core\\haktanemresenel.com.core.csproj|c:\\users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.core\\entities\\landingpageowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC13B432-0B54-4D97-9BED-0003A44F1491}|haktanemresenel.com.core\\haktanemresenel.com.core.csproj|solutionrelative:haktanemresenel.com.core\\entities\\landingpageowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC13B432-0B54-4D97-9BED-0003A44F1491}|haktanemresenel.com.core\\haktanemresenel.com.core.csproj|c:\\users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.core\\entities\\educationinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC13B432-0B54-4D97-9BED-0003A44F1491}|haktanemresenel.com.core\\haktanemresenel.com.core.csproj|solutionrelative:haktanemresenel.com.core\\entities\\educationinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DC13B432-0B54-4D97-9BED-0003A44F1491}|haktanemresenel.com.core\\haktanemresenel.com.core.csproj|c:\\users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.core\\entities\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC13B432-0B54-4D97-9BED-0003A44F1491}|haktanemresenel.com.core\\haktanemresenel.com.core.csproj|solutionrelative:haktanemresenel.com.core\\entities\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC13B432-0B54-4D97-9BED-0003A44F1491}|haktanemresenel.com.core\\haktanemresenel.com.core.csproj|c:\\users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.core\\entities\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC13B432-0B54-4D97-9BED-0003A44F1491}|haktanemresenel.com.core\\haktanemresenel.com.core.csproj|solutionrelative:haktanemresenel.com.core\\entities\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{839D1D30-3D48-423F-9800-90E6F0CCCE24}|haktanemresenelk.com.services\\haktanemresenelk.com.services.csproj|c:\\users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenelk.com.services\\contexts\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,18 +39,6 @@
       "RelativeMoniker": "D:0:0:{DC13B432-0B54-4D97-9BED-0003A44F1491}|haktanemresenel.com.core\\haktanemresenel.com.core.csproj|solutionrelative:haktanemresenel.com.core\\enums\\abilitiyenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC13B432-0B54-4D97-9BED-0003A44F1491}|haktanemresenel.com.core\\haktanemresenel.com.core.csproj|c:\\users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.core\\entities\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC13B432-0B54-4D97-9BED-0003A44F1491}|haktanemresenel.com.core\\haktanemresenel.com.core.csproj|solutionrelative:haktanemresenel.com.core\\entities\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC13B432-0B54-4D97-9BED-0003A44F1491}|haktanemresenel.com.core\\haktanemresenel.com.core.csproj|c:\\users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.core\\entities\\landingpageowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC13B432-0B54-4D97-9BED-0003A44F1491}|haktanemresenel.com.core\\haktanemresenel.com.core.csproj|solutionrelative:haktanemresenel.com.core\\entities\\landingpageowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC13B432-0B54-4D97-9BED-0003A44F1491}|haktanemresenel.com.core\\haktanemresenel.com.core.csproj|c:\\users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.core\\entities\\educationinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC13B432-0B54-4D97-9BED-0003A44F1491}|haktanemresenel.com.core\\haktanemresenel.com.core.csproj|solutionrelative:haktanemresenel.com.core\\entities\\educationinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|c:\\users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ACD81DA-17FD-4B81-9D85-1CD9A580A1C4}|haktanemresenel.com.webUI\\haktanemresenel.com.webUI.csproj|solutionrelative:haktanemresenel.com.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,20 +90,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Ability.cs",
               "DocumentMoniker": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.core\\Entities\\Ability.cs",
               "RelativeDocumentMoniker": "haktanemresenel.com.core\\Entities\\Ability.cs",
               "ToolTip": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.core\\Entities\\Ability.cs",
               "RelativeToolTip": "haktanemresenel.com.core\\Entities\\Ability.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T18:40:36.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "haktanemresenel.com.webUI\\Views\\Admin\\Index.cshtml",
@@ -111,12 +111,11 @@
               "RelativeToolTip": "haktanemresenel.com.webUI\\Views\\Admin\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-04T18:33:42.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T18:33:42.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "haktanemresenel.com.webUI\\Controllers\\HomeController.cs",
@@ -124,12 +123,11 @@
               "RelativeToolTip": "haktanemresenel.com.webUI\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T18:32:34.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T18:32:34.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AbilitiyEnum.cs",
               "DocumentMoniker": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.core\\Enums\\AbilitiyEnum.cs",
               "RelativeDocumentMoniker": "haktanemresenel.com.core\\Enums\\AbilitiyEnum.cs",
@@ -137,12 +135,11 @@
               "RelativeToolTip": "haktanemresenel.com.core\\Enums\\AbilitiyEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T20:28:24.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T20:28:24.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Projects.cs",
               "DocumentMoniker": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.core\\Entities\\Projects.cs",
               "RelativeDocumentMoniker": "haktanemresenel.com.core\\Entities\\Projects.cs",
@@ -163,12 +160,11 @@
               "RelativeToolTip": "haktanemresenel.com.webUI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T20:23:10.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T20:23:10.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "EducationInformation.cs",
               "DocumentMoniker": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.core\\Entities\\EducationInformation.cs",
               "RelativeDocumentMoniker": "haktanemresenel.com.core\\Entities\\EducationInformation.cs",
@@ -181,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "LandingPageOwner.cs",
               "DocumentMoniker": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.core\\Entities\\LandingPageOwner.cs",
               "RelativeDocumentMoniker": "haktanemresenel.com.core\\Entities\\LandingPageOwner.cs",
@@ -194,12 +190,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AppContext.cs",
               "DocumentMoniker": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenelk.com.services\\contexts\\AppContext.cs",
               "RelativeDocumentMoniker": "haktanemresenelk.com.services\\contexts\\AppContext.cs",
-              "ToolTip": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenelk.com.services\\contexts\\AppContext.cs*",
-              "RelativeToolTip": "haktanemresenelk.com.services\\contexts\\AppContext.cs*",
+              "ToolTip": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenelk.com.services\\contexts\\AppContext.cs",
+              "RelativeToolTip": "haktanemresenelk.com.services\\contexts\\AppContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T20:06:37.449Z",
@@ -207,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ProjectTypeEnum.cs",
               "DocumentMoniker": "C:\\Users\\hakta\\source\\repos\\haktanemresenel.com\\haktanemresenel.com.core\\Enums\\ProjectTypeEnum.cs",
               "RelativeDocumentMoniker": "haktanemresenel.com.core\\Enums\\ProjectTypeEnum.cs",
@@ -215,8 +211,7 @@
               "RelativeToolTip": "haktanemresenel.com.core\\Enums\\ProjectTypeEnum.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T20:29:45.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T20:29:45.983Z"
             }
           ]
         }

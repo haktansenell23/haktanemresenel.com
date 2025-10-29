@@ -23,19 +23,19 @@
 
 
     <div ng-controller="MainCtrl" class="w-100 h-100 maxWidthHeight">
-        <main role="main" class="w-100 h-100  maxWidthHeight">
+        <main role="main" class="w-100 h-100 maxWidthHeight">
             <div class="spinner-overlay" ng-if="$mc.isLoading" >
                 <div class="spinner">
                     <img src="~/images/emre.jpg" />
                 </div>
             </div>
-            <div class="p-0 m-0 " style="height:8%;" >
+            <div class="m-0 p-0" style="height:8%;" >
                 <audio controls="controls" id="hover-sound" preload="auto" style="display:none;">
                     <source src="~/media/StarWarsMainTheme.mp3" type="audio/mpeg" />
                 </audio>
-                <nav class="customNavbar container d-flex w-100">
+                <nav class="customNavbar d-flex w-100 container">
                     <div class="w-100 d-flex justify-content-start ml-2">
-                        <ul class="d-flex justify-content-start w-100 p-0 mt-1 mb-0 mr-3">
+                        <ul class="d-flex justify-content-start w-100 mb-0 mr-3 mt-1 p-0">
                             <li class="">
                                 
                                 <a href="~/media/darth-breathing.mp3" class="hover-sound-item" title="CV" ng-click="wait(3000,{type:'notif',succMsg:'İndirme Başarılı',errorMsg:'İndirme başarısız dosya bulunamadı'})" download>
@@ -45,30 +45,30 @@
                         </ul>
                     </div>
                     <div class="d-flex justify-content-center w-100">
-                        <ul class="d-flex justify-content-center w-100 p-0 gap-10 mt-1 mb-0 mr-3">
-                            <li class="hover-sound-item"><a class="hover-sound-item " asp-controller="Home" asp-action="Index">Deneyim</a></li>
-                            <li class="hover-sound-item">Hakkımda</li>
-                            <li class="hover-sound-item">Projeler</li>
+                        <ul class="d-flex justify-content-center w-100 mb-0 mr-3 mt-1 gap-10 p-0">
+                            <li class="hover-sound-item"><a class="hover-sound-item" ng-click="changeText('exp')">Deneyim</a></li>
+                            <li class="hover-sound-item" ng-click="changeText('about')">Hakkımda</li>
+                            <li class="hover-sound-item" ng-click="changeText('proj')">Projeler</li>
 
                         </ul>
                     </div>
                     <div class="w-100 d-flex justify-content-end">
-                        <ul class="d-flex justify-content-end w-100 gap-10 p-0 mt-1 mb-0 mr-3 navbar-animation">
+                        <ul class="d-flex justify-content-end w-100 navbar-animation mb-0 mr-3 mt-1 gap-10 p-0">
 
 
 
                             <li class="hover-sound-item">
-                                <a href="https://www.instagram.com/haktansenell23" class="text-white hover-sound-item" target="_blank">
+                                <a href="https://www.instagram.com/haktansenell23" class="hover-sound-item text-white" target="_blank">
                                     <i class="fa-brands fa-instagram"></i>
                                 </a>
                             </li>
                             <li class="hover-sound-item">
-                                <a href="https://x.com/haktansenell23" class="text-white hover-sound-item" target="_blank">
+                                <a href="https://x.com/haktansenell23" class="hover-sound-item text-white" target="_blank">
                                     <i class="fa-brands fa-twitter"></i>
                                 </a>
                             </li>
                             <li class="hover-sound-item">
-                                <a href="https://github.com/haktansenell23" class="text-white hover-sound-item" target="_blank">
+                                <a href="https://github.com/haktansenell23" class="hover-sound-item text-white" target="_blank">
                                     <i class="fa-brands fa-github-alt"></i>
                                 </a>
                             </li>
@@ -84,7 +84,7 @@
 
                 
             </div>
-            <div class="container rounded layoutMain overflow-auto" style="height:90%;max-height:90%;">
+            <div class="layoutMain container overflow-auto rounded" style="height:90%;max-height:90%;">
                 <div class="" style="height:1000px
 ">
                     @RenderBody()

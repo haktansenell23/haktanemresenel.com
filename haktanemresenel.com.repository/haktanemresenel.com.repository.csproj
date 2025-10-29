@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Repository\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\haktanemresenel.com.core\haktanemresenel.com.core.csproj" />
   </ItemGroup>
 

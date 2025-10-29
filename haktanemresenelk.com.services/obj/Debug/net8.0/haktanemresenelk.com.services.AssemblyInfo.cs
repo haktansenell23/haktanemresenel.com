@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("haktanemresenelk.com.services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1ffd83fefe700a742942963c72442e4a594ff64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33effdfe1b31368bdf60ae8317fddccc5820d27a")]
 [assembly: System.Reflection.AssemblyProductAttribute("haktanemresenelk.com.services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("haktanemresenelk.com.services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
