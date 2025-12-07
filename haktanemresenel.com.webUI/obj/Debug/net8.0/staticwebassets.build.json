@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YAx+9VA1zzT5X5cyE/LinYmKcEjZNfEA8VPIGS7Jt2U=",
+  "Hash": "AJsjKfjIazPvDMsk0+kPyrHl3LDFpioVfZ/QBnb75CY=",
   "Source": "haktanemresenel.com.webUI",
   "BasePath": "_content/haktanemresenel.com.webUI",
   "Mode": "Default",
@@ -1060,6 +1060,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\appcontroller1.js"
+    },
+    {
+      "Identity": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\js\\appdirective.js",
+      "SourceId": "haktanemresenel.com.webUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\",
+      "BasePath": "_content/haktanemresenel.com.webUI",
+      "RelativePath": "js/appdirective.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\appdirective.js"
     },
     {
       "Identity": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\js\\maincontroller.js",

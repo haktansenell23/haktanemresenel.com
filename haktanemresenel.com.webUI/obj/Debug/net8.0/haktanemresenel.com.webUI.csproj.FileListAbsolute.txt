@@ -92,3 +92,4 @@ C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.webUI\bin\De
 C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.webUI\bin\Debug\net8.0\haktanemresenel.com.repository.pdb
 C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.webUI\obj\Debug\net8.0\haktanemresenel.com.webUI.csproj.AssemblyReference.cache
 C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.webUI\obj\Debug\net8.0\haktanem.0C3A17D9.Up2Date
+C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.webUI\bin\Debug\net8.0\AutoMapper.dll

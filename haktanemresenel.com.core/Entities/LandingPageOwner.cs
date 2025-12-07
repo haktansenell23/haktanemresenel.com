@@ -15,6 +15,7 @@ namespace haktanemresenel.com.core.Entities
         public DateTime BirthDate { get; set; }
         public string Address { get; set; }
         public List<EducationInformation> EducationInformations { get; set; }
+        public List<Ability> Abilities { get; set; }
         public List<Projects> Projects { get; set; }
     }
 }

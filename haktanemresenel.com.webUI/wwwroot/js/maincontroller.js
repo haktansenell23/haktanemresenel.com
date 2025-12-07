@@ -78,33 +78,21 @@ app.controller('MainCtrl', ["$scope", "$rootScope", "$timeout", function ($scope
 
 }])
 
-app.controller('AdminCtrl', ["$scope", "$rootScope", "$timeout", function ($scope, $rootScope, $timeout) {
+app.controller('AdminCtrl', ["$scope", "$rootScope", "$timeout", "$http", function ($scope, $rootScope, $timeout, $http) {
     console.log("admin")
-    $rootScope.$mc = {
-        isLoading: false
+
+    $scope.isLoading = false;
 
 
-    };
+    $scope.model = {
+        password: null,
+        email:null
+    }
 
 
-    $rootScope.$mc.isLoading = true;
-    $timeout(function () {
-        $rootScope.$mc.isLoading = false;
-        console.log("123");
-    }, 500)
+   
 
-    var sound = document.getElementById('hover-sound');
-
-    var generalTheme = document.getElementById("generalTheme");
-
-
-
-    generalTheme.play();
-    sound.currentTime = 0;
-    sound.currentTime = 1;
-    sound.currentTime = 0;
-
-    sound.play();
+  
     //const element = document.querySelector(".hover-sound-item");
     //const hoverEvent = new Event("mouseenter");
     //element.dispatchEvent(hoverEvent);
@@ -112,31 +100,20 @@ app.controller('AdminCtrl', ["$scope", "$rootScope", "$timeout", function ($scop
     //element.dispatchEvent(hoverEvent1);
 
   
-    document.querySelectorAll('.hover-sound-item').forEach(function (item) {
-        item.addEventListener('mouseenter', function () {
-            sound.play();
-        });
 
-        item.addEventListener('mouseleave', function () {
-            sound.pause();
-            sound.currentTime = 0;
-        });
-    });
 
-    $scope.wait = function (duration = 0, sitObj = {}) {
-        $rootScope.$mc.isLoading = true;
 
-        $timeout(function () {
-            $rootScope.$mc.isLoading = false;
+    $scope.login = function (event = null) {
+        console.log("event", event);
+        if (event)
+            event.stopPropagation();
 
-            if (sitObj.type != undefined) {
-                switch (sitObj.type) {
 
-                    default:
-                }
+        $http.post(homeUrl + `/Admin/Login`, $scope.model).then(function (resp) {
+            console.log("resp.data",resp.data);
+        })
 
-            }
-        }, duration)
+        console.log("login fnc");
     }
 
 

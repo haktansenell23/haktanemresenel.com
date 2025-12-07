@@ -18,8 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\hakta\Source\Repos\haktanemresenel.com\haktanemresenel.com.webUI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/hakta/Source/Repos/haktanemresenel.com/haktanemresenel.com.webUI/Views/Admin/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+[C:/Users/hakta/Source/Repos/haktanemresenel.com/haktanemresenel.com.webUI/Views/AdminLogin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Mb2dpblxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/hakta/Source/Repos/haktanemresenel.com/haktanemresenel.com.webUI/Views/Home/Index.cshtml]

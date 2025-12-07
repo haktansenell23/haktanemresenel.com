@@ -18,9 +18,7 @@ namespace haktanemresenel.com.repository.Repository
 
         public async Task<User> GetAdminUser(AdminLoginRequestDto loginRequestDto)
         {
-
-
-
+            
             throw new NotImplementedException();    
 
         }

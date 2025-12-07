@@ -1,9 +1,30 @@
+using haktanemresenel.com.core.Services;
+using haktanemresenel.com.webUI.Extensions;
+using haktanemresenelk.com.services.Services;
+
+
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddDistributedMemoryCache();
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAllOrigins",
+        policy =>
+        {
+            policy
+                .AllowAnyHeader()
+                .AllowAnyMethod()
+                .AllowCredentials(); 
+        });
+});
+
+
+builder.Services.CustomServices();
+ 
+builder.Services.AddHttpContextAccessor();
 
 builder.Services.AddSession(options =>
 {
@@ -12,9 +33,14 @@ builder.Services.AddSession(options =>
     options.Cookie.HttpOnly = false;
     options.Cookie.IsEssential = true;
 });
+
+builder.Services.AddAutoMapper(config =>
+{
+    MapperConfigsExtensions.AddMapperConfig(config);
+});
+
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
@@ -23,7 +49,11 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseSession();
+
 app.UseHttpsRedirection();
+
+app.CustomMiddlewares();
+
 app.UseStaticFiles();
 
 app.UseRouting();

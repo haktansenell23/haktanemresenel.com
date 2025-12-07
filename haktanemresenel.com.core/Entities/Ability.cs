@@ -11,7 +11,6 @@ namespace haktanemresenel.com.core.Entities
     {
 
         public Guid Id { get; set; }
-        public Guid LandingPageOwnerId { get; set; }
         public Guid EducationInformationId { get; set; }
         public AbilitiyEnum AbilityType { get; set; }
     }

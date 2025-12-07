@@ -217,6 +217,10 @@
       "PackagePath": "staticwebassets\\js\\appcontroller1.js"
     },
     {
+      "Id": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\js\\appdirective.js",
+      "PackagePath": "staticwebassets\\js\\appdirective.js"
+    },
+    {
       "Id": "C:\\Users\\hakta\\Source\\Repos\\haktanemresenel.com\\haktanemresenel.com.webUI\\wwwroot\\js\\maincontroller.js",
       "PackagePath": "staticwebassets\\js\\maincontroller.js"
     },

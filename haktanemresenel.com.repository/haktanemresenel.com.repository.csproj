@@ -10,4 +10,8 @@
     <ProjectReference Include="..\haktanemresenel.com.core\haktanemresenel.com.core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Extensions\" />
+  </ItemGroup>
+
 </Project>

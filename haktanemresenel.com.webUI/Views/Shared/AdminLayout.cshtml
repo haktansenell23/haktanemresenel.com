@@ -21,18 +21,11 @@
     </audio>
 
 
-    <div class="h-100 container-fluid rounded  overflow-auto" ng-controller="AdminCtrl" ng-show="isLoading">
+    <div class="h-100 container-fluid overflow-auto rounded" ng-controller="AdminCtrl" ng-show="!isLoading">
                
                     @RenderBody()
                
     </div>
-@* 
-    <div class="container" ng-controller="MainCtrl" ng-show="isLoading">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div> *@
-
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
@@ -44,7 +37,7 @@
     @await RenderSectionAsync("Scripts", required: false)
     <script>
 
-        var homeUrl = window.location.host;
+        var homeUrl = window.location.origin; ;
 
         console.log("homeUrl", homeUrl);
     </script>

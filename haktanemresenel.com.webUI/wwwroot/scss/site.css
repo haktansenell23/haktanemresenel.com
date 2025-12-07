@@ -161,8 +161,10 @@
 
 }*/
 .adminLoginBox {
-  box-shadow: 0 4px 8px rgb(128, 128, 128);
-  padding: 5rem;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 10rem;
 }
 
 .admingLoginInputMargin {
