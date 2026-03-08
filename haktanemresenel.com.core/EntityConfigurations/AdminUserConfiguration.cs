@@ -18,8 +18,6 @@ namespace haktanemresenel.com.core.EntityConfigurations
 
             builder.Property(y=>y.NameSurname).IsRequired();
 
-            builder.Property(y => y.NameSurname).IsRequired();
-
             builder.Property(y => y.Password).IsRequired();
 
         }

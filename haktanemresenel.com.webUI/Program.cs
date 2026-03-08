@@ -1,7 +1,10 @@
 using haktanemresenel.com.core.Services;
 using haktanemresenel.com.webUI.Extensions;
 using haktanemresenelk.com.services.Services;
-
+using haktanemresenel.com.repository;
+using haktanemresenel.com.repository.Repository;   
+using AppContext =  haktanemresenel.com.repository.Repository.contexts.AppContext;
+using Microsoft.EntityFrameworkCore;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -27,7 +30,7 @@ builder.Services.CustomServices();
 builder.Services.AddHttpContextAccessor();
 
 builder.Services.AddSession(options =>
-{
+{Ğ
     options.Cookie.Name = ".LandingAdminPage";
     options.IdleTimeout = TimeSpan.FromDays(60);
     options.Cookie.HttpOnly = false;
@@ -38,6 +41,10 @@ builder.Services.AddAutoMapper(config =>
 {
     MapperConfigsExtensions.AddMapperConfig(config);
 });
+
+builder.Services.AddDbContext<AppContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"),
+        sqlOptions => sqlOptions.EnableRetryOnFailure(5, TimeSpan.FromSeconds(10), null)));
 
 var app = builder.Build();
 

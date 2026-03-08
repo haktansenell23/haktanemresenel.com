@@ -1,5 +1,6 @@
 ﻿using haktanemresenel.com.core.Entities;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -29,7 +30,7 @@ namespace haktanemresenel.com.repository.Repository.contexts
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-         
+             
             base.OnConfiguring(optionsBuilder);
         }
 
